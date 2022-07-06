@@ -5,32 +5,11 @@
     "provider": "https://github.com/litmuschaos",
     "releases": [
       {
-        "version": "0.0.4",
+        "version": "0.0.5",
         "date": "2020-11-10T18:32:31.842929Z",
         "requires": "orca>=0.0.0",
         "sha512sum": "37a92aa149942a7e07857b8646d3a0d6e847e7525af60c34a5b475abe6790f1aa5840558d0e58e12004691c3b19c877c1b55d09be87c1e21a75a069886a6a7c0",
-        "url": "https://github.com/mayadata-io/spinnaker-preconfigured-job-plugin/releases/download/v0.0.4/spinnaker-preconfigured-job-plugin-v0.0.4.zip"
-      },
-      {
-        "version": "0.0.3",
-        "date": "2020-11-10T15:54:22.946718Z",
-        "requires": "orca>=0.0.0",
-        "sha512sum": "872604df1cd8c844e8fe561623fa4114139bfbe14f6fd3b79f8ffbc908bedb4130bcc5589bee394413d1f5e1205968577e2ed197f3af2d91f01493b54fd5fc06",
-        "url": "https://github.com/mayadata-io/spinnaker-preconfigured-job-plugin/releases/download/v0.0.3/spinnaker-preconfigured-job-plugin-v0.0.3.zip"
-      },
-      {
-        "version": "0.0.2",
-        "date": "2020-11-10T11:02:30.536681Z",
-        "requires": "orca>=0.0.0",
-        "sha512sum": "7b29eb040c6ba82c29a9cba15fcf8da4f682ea3c9aff5e4427a5c19596f6f7fa30f116b49a35cac770cf8810e65632fe70c89a87dfeed531e8e65f4ae82da659",
-        "url": "https://github.com/mayadata-io/spinnaker-preconfigured-job-plugin/releases/download/v0.0.2/spinnaker-preconfigured-job-plugin-v0.0.2.zip"
-      },
-      {
-        "version": "0.0.1",
-        "date": "2020-11-09T12:36:53.558174Z",
-        "requires": "orca>=0.0.0",
-        "sha512sum": "5809315580d10c17786ca557f190f9421878114965487d89c3154f5d187bc3553d343df18fa0aa3711a515b3fa6b1cf3663934915c061e0042abc97bb686723e",
-        "url": "https://github.com/mayadata-io/spinnaker-preconfigured-job-plugin/releases/download/v0.0.1/spinnaker-preconfigured-job-plugin-v0.0.1.zip"
+        "url": "https://github.com/srinidhis05/spinnaker-preconfigured-job-plugin/releases/download/v0.0.5/spinnaker-preconfigured-job-plugin-v0.0.5.zip"
       }
     ]
   }
