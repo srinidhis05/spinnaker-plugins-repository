@@ -6,9 +6,9 @@
     "releases": [
       {
         "version": "0.0.5",
-        "date": "2020-11-10T18:32:31.842929Z",
+        "date": "2022-07-04T18:32:31.842929Z",
         "requires": "orca>=0.0.0",
-        "sha512sum": "37a92aa149942a7e07857b8646d3a0d6e847e7525af60c34a5b475abe6790f1aa5840558d0e58e12004691c3b19c877c1b55d09be87c1e21a75a069886a6a7c0",
+        "sha512sum": "a65071a310c0f2431f8f3781fdfd11e71ac2201915bcacca1d2de17feb44409ea7890052415569e821996c1c67e6d31c299105a307511021b99bcfc95024be4a",
         "url": "https://github.com/srinidhis05/spinnaker-preconfigured-job-plugin/releases/download/v0.0.5/spinnaker-preconfigured-job-plugin-v0.0.5.zip"
       }
     ]
